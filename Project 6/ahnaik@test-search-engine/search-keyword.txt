@@ -1,0 +1,23 @@
+Evaluated 100 pages.
+Evaluated 161 pages.
+Evaluated 161 pages in total. Here are the top 20 pages according to page ranks:
+Document ID: 00000113548, URI: http://au.mobile.yahoo.com/gallery, page rank: 1.0072034E-6, word frequency: 1
+Document ID: 00000208467, URI: http://apsblog.burtongroup.com/open_source_software/, page rank: 9.4740557E-7, word frequency: 1
+Document ID: 00000101679, URI: http://4wheeldrive.about.com/od/allthingsjeepoffroad/bb/bbjeepwranglers.htm, page rank: 6.596605E-7, word frequency: 1
+Document ID: 00000128211, URI: http://buy.ecplaza.net/search/1s1nf20sell/used_laptop_and_lcd_monitor.html, page rank: 5.909621E-7, word frequency: 1
+Document ID: 00000212265, URI: http://atrpms.net/dist/f10/, page rank: 5.8905533E-7, word frequency: 1
+Document ID: 00000225900, URI: http://browser.grik.net/www.socialsecurity.gov/pubs/index.html, page rank: 5.777383E-7, word frequency: 1
+Document ID: 00000219169, URI: http://blogs.pcmag.com/atwork/reviews/, page rank: 5.025222E-7, word frequency: 1
+Document ID: 00000115233, URI: http://baltimore.org/visitors/tour-baltimore/self-guided-tours/the-stars-and-stripes-tour, page rank: 5.015624E-7, word frequency: 1
+Document ID: 00000116069, URI: http://bearshareo.wetpaint.com/page/gough+house, page rank: 4.9460414E-7, word frequency: 2
+Document ID: 00000201371, URI: http://5thirtyone.com/archives/725, page rank: 4.90959E-7, word frequency: 1
+Document ID: 00000127747, URI: http://buy.ecplaza.net/search/1s1nf20sell/sunflower.html, page rank: 4.856677E-7, word frequency: 1
+Document ID: 00000228707, URI: http://carvbuc.info/usersearch/VIPLOX.html, page rank: 4.7996167E-7, word frequency: 1
+Document ID: 00000228878, URI: http://carvbuc.info/usersearch/raretopsite.html, page rank: 4.7800626E-7, word frequency: 1
+Document ID: 00000230869, URI: http://changewaves.socialtechnologies.com/archives.html, page rank: 4.7550358E-7, word frequency: 1
+Document ID: 00000124271, URI: http://buy.ecplaza.net/search/1s1nf20sell/e_clip.html, page rank: 4.7348917E-7, word frequency: 1
+Document ID: 00000228742, URI: http://carvbuc.info/usersearch/cartoonneckwork.html, page rank: 4.713686E-7, word frequency: 1
+Document ID: 00000228880, URI: http://carvbuc.info/usersearch/redtube-co-uk.html, page rank: 4.704886E-7, word frequency: 1
+Document ID: 00000121863, URI: http://business-finder.info/Chemicals/News_and_Media/, page rank: 4.7033024E-7, word frequency: 1
+Document ID: 00000103770, URI: http://adriangrima.250free.com/inizjamed/bliet_ktieb.htm, page rank: 4.6362464E-7, word frequency: 1
+Document ID: 00000102950, URI: http://abenchpress.blogspot.com/2008/12/happy-holidays.html, page rank: 4.6362464E-7, word frequency: 1

@@ -1,0 +1,1 @@
+Get a snapshot of current conditions and the 5-day forecast for any location.
